@@ -33,21 +33,27 @@ aside img {
 aside p {
   width: 75%;
   color: hsl(220, 15%, 55%);
-  margin: 1.4rem 0 0;
-  flex-grow: 1;
 }
 
 aside h3 {
   font-size: 1.5rem;
   color: hsl(218, 44%, 22%);
-  margin: 1.4rem 0 0;
 }
 
 article {
   display: flex;
   flex-flow: column;
   align-items: center;
+  gap: 1rem;
   padding: 1rem 0 2rem;
   border-radius: 1rem;
   background: hsl(0, 0%, 100%);
+}
+
+.attribution {
+  font-size: 0.8rem;
+}
+
+.attribution a {
+  text-decoration: none;
 }
