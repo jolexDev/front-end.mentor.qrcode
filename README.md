@@ -1,1 +1,1 @@
-# front-end.mentor.qrcode
+QR Code Project - FrontEnd Mentor
